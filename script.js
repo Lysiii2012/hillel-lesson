@@ -5,3 +5,4 @@ let digist = num.toString().split('');
 let result = digist.join(' ');
 
 console.log(result); 
+alert(result)
